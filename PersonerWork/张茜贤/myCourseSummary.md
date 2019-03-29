@@ -24,7 +24,7 @@
 * 规划时间
 	* 排列工作包顺序 <font color='red'>**（设置WBS前置任务）**</font> <br>
 	四种逻辑顺序 P5
-	* 估算资产P10<font color=#ff0000>（WBS分配资源）</font>
+	* 估算资产P10<font color=#ff0000>*（WBS分配资源）*</font>
 		* 人（核心团队成员，程序员并没有编号用程序员123代替）
 		* 设备场地等
 	* 估算持续时间<font color=#ff0000>（WBS设置工期、开始时间、完成时间）</font>
