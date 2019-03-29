@@ -2,37 +2,37 @@
 ## 01
 ***
 
-- ��Ŀ�����ԣ��ж��Ƿ���һ����Ŀ��14-18
-* �����ԣ�
-* ��ʱ�ԣ�
-* ������ϸ��
+- 项目的特性（判断是否是一个项目）14-18
+	* 独特性；
+	* 临时性；
+	* 渐进明细；
 
 
-- ��Ŀ��Լ����
-* ��Χ
-* ����
-* �ɱ�
+- 项目的约束：
+	* 范围
+	* 进度
+	* 成本
 
-- ��֯�ṹ
-* ְ����
-* ��Ŀ��
-* ������
+- 组织结构
+	* 职能型
+	* 项目型
+	* 矩阵型
 
 ## 03-1
 
 ## 03-2 WBS
-![ʮ��֪ʶ�����ڹ滮�׶εĹ��ɺ͹�����](https://github.com/zhangxixian/501-IPM/tree/master/PersonerWork/������/myImgResource/img03-2-1.png)
+![十大知识领域在规划阶段的规律和关联性](https://github.com/zhangxixian/501-IPM/blob/master/PersonerWork/%E5%BC%A0%E8%8C%9C%E8%B4%A4/myImgResource/img03-2-1.png)
 
-* �滮ʱ��
-	* ���й�����˳��/<br> <font color=#ff0000>������WBSǰ������</font>
-	�����߼�˳�� P5
-	* �����ʲ�P10<font color=#ff0000>��WBS������Դ��</font>
-		* �ˣ������Ŷӳ�Ա������Ա��û�б���ó���Ա123���棩/<br>
-		* �豸���ص�
-	* �������ʱ��<font color=#ff0000>��WBS���ù��ڡ���ʼʱ�䡢���ʱ�䣩</font>
-		* ��Ŀ�Ŷ�������Ϥ�����ĳ�Ա
-		* ���ֹ������ʱ��ķ���P18
-			* ���¶��Ͻ�����϶��¹���
+* 规划时间
+	* 排列工作包顺序/<br> <font color=#ff0000>（设置WBS前置任务）</font>
+	四种逻辑顺序 P5
+	* 估算资产P10<font color=#ff0000>（WBS分配资源）</font>
+		* 人（核心团队成员，程序员并没有编号用程序员123代替）/<br>
+		* 设备场地等
+	* 估算持续时间<font color=#ff0000>（WBS设置工期、开始时间、完成时间）</font>
+		* 项目团队中最熟悉具体活动的成员
+		* 三种估算持续时间的方法P18
+			* 自下而上结合自上而下估算
 			* ...P18
 
 
